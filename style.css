@@ -1,0 +1,25 @@
+.container
+{
+    margin-top: 100px;
+   
+}
+.row
+{
+    display:flex;
+    justify-content:space-around;
+    
+}
+.navbar
+{
+    background-color: #a9d3e3;
+}
+/* .footer */
+/* {
+    background-color: #ccf2f4;
+     display: block; 
+  
+} */
+.footer
+{
+    background-color: #f1f4f8;
+}
