@@ -12,13 +12,12 @@
 .navbar
 {
     background-color: #a9d3e3;
+    font-weight: 550;
+    font-size: large;
+   
 }
-/* .footer */
-/* {
-    background-color: #ccf2f4;
-     display: block; 
-  
-} */
+
+
 
 .footer{
 
@@ -31,8 +30,9 @@
     color: #4c4a4a ;
 }
 
-.nav-link{
-    font-weight: 550;
-  color:#4c4a4a ;
-  
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgb(255 129 103 / 65%);
+    font-weight: 600;
+
 }
