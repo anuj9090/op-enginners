@@ -19,7 +19,20 @@
      display: block; 
   
 } */
-.footer
-{
-    background-color: #f1f4f8;
+
+.footer{
+
+    margin-top: 500px;
+    color: rgb(195, 102, 25) ;
+   
+}
+.carousel-caption{
+
+    color: #4c4a4a ;
+}
+
+.nav-link{
+    font-weight: 550;
+  color:#4c4a4a ;
+  
 }
